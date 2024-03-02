@@ -40,7 +40,7 @@
 
 }
 .btn-pro{
-    background-color: tomato;
+    background-color:orangered;
     border: none;
     color:white;
     font-size: 16px;
@@ -194,8 +194,82 @@ width: 100%;
     margin-left: 85px;
     font-size: 16px;
 }
- 
+.row{
+    margin-left: 30px;
+    justify-content: center;
+}
+
     
+    
+
+footer{
+    display: flex;
+    gap: 100px;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
+ 
+ .contact input[type=text] , .contact input[type="email"],.btn-ftr {
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    
+    
+    
+    
+   
+ }
+ .section-content{
+    color: grey;
+ }
+ .btn-ftr{
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    
+    
+ }
+.ftr-imge{
+    height: 420px;
+    width: 670px;
+    margin-right: 40px;
+}
+.travel-badge{
+    border-radius: 8px;
+    background-color: orangered;
+    color: white;
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+    left: 400px;
+    
+    
+}
+.her-title{
+    color: black;
+    gap: 5px;
+    font-size: 40px;
+    margin-left: 500px;
+}
+.her-content{
+    font-size: 16px;
+    color: black;
+    margin-left: 420px;
+}
+.colored-it{
+    color: orangered;
+}
+.a{
+    margin-left: 550px;
+}
+.last-p{
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-bottom: 80px;
+}
 
 
 
