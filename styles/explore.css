@@ -272,6 +272,61 @@ footer{
 }
 
 
+/* Responsive Styles */
+@media only screen and (max-width: 600px) {
+    body {
+      font-size: 14px; 
+    }
+  
+    .banner-container {
+      padding: 20px; 
+    }
+  
+    .banner-title {
+      font-size: 24px; 
+    }
+  
+    .banner-content {
+      font-size: 14px; 
+    }
+  
+    .btn-container {
+      flex-direction: column; 
+    }
+  
+    .popular-tours {
+      flex-direction: column; 
+      text-align: center; 
+    }
+  
+    .pplr-img {
+      width: 100%; 
+      margin-top: 20px; 
+    }
+  
+    .list-tour {
+      margin: 20px 0; 
+    }
+  
+    .row {
+      flex-direction: column; 
+    }
+  
+    .verticle-collage {
+      display: none; 
+    }
+  
+    .divider-content {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .footer-column {
+      text-align: center; 
+    }
+  }
+  
+
 
 
 
