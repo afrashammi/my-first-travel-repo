@@ -85,4 +85,121 @@
     width: 450px;
     margin-right: 40px;
 }
+.destination{
+    margin-top: 40px;
+    align-content: center;
+    justify-content: center;
+    padding: 150px;
+    margin-left: 220px;
+    
+ 
+}
+.dest-title{
+    color: black;
+    font-size: 40px;
+}
+    
+.dest-content{
+color: gray;
+font-size: 16px;
+justify-content: center;
+} 
+.grid-item-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}  
+.grid-item-2{
+    display: grid;
+    grid-template-columns: 3,1fr;
+    gap: 10px;
+}
+.tour-img img{
+height: auto;
+width: 100%;
+}
+.choose-title{
+    color: black;
+    font-size: 24px;
+}
+.choose-content{
+    font-size: 16px;
+    color: gray;
+}
+.handpicked-hotel{
+    background-color: rgb(231, 201, 206);
+}
+.world-class{
+    background-color: lightblue;
+}
+.best-container{
+    background-color: rgb(226, 161, 226);
+    margin-left: 350px;
+    margin-right: 150px;
+    height: 200px;
+    width: 386px;
+    margin-top: 10px;
+    
+    
+    
+}
+
+
+.c-title{
+    font-size: 40px;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    margin-left: 450px;
+}
+.ch-content{
+    color: gray;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-left: 80px;
+}
+.divider-content{
+    display: flex;
+    gap: 5px;
+    
+    align-items: center;
+    
+    justify-content: center;
+    
+    height: 460px;
+    width: 870px;
+    
+    margin-left: 130px;
+}
+.vdio-title{
+    font-size: 40px;
+    color: black;
+    margin-left: 80px;
+}
+.vdio-content{
+    color: grey;
+    font-size: 16px;
+    margin-left: 80px;
+}
+.vdio-btn{
+    color: white;
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 145px;
+    margin-left: 76px;
+}
+.list-vdio{
+    margin-left: 85px;
+    font-size: 16px;
+}
+ 
+    
+
+
+
+
+
+
 
