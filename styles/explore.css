@@ -1,0 +1,48 @@
+
+
+
+* {
+  font-family: "Mulish", sans-serif;
+  
+}
+/* banner section */
+.banner{
+    background-image: url(../Images/Group\ 13\ \(1\)\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1170px;
+    height: 500px;
+    margin-left: 80px;
+   
+}
+.banner-container{
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+}
+.banner-title{
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+}
+.banner-content{
+    color: white;
+    font-size: 16px;
+}
+.btn-primary{
+    background-color: white;
+    border: none;
+    color: grey;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.btn-pro{
+    background-color: tomato;
+    border: none;
+    color:white;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px; 
+}
